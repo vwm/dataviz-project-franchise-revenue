@@ -23,7 +23,14 @@ These initial questions are a guideline for the visualization's development path
 * Is there a correlation between the original media type and the relative success of a franchise?
 
 ## Sketches
-...
+Here are some sketches created during project planning.
+
+![image](https://user-images.githubusercontent.com/2779058/65631329-52026f80-dfa5-11e9-8e27-b4a571972155.png)
+
+
+The right sketch is similar to the first prototype.  This stacked bar view would help reveal which factors impact revenue the most and see if any interesting patterns emerge across different dimensions.  I want to include an interactive, dynamic selection, so the user can select how to slice the data.  I also want to incorporate a way to customize or multi-select which categories or media are shown.
+
+The left sketch is similar to the second prototype.  The goal is to use a spatial view to reveal if the original media source and a franchise's total revenue have a correlation.  I want to expand this idea to find a better way to express the original media type, so that more conclusions can be drawn; this might be easier to digest if the types are grouped into a more general set.
 
 ## Open Questions
 I'm considering several questions as the visualization takes shape.
