@@ -31,3 +31,4 @@ I'm considering several questions as the visualization takes shape.
 * How should the visualization take outliers into account for readability and visibility purposes?
 * How will the visualization be managed to make it look polished (e.g., no truncated labels, properly formatted text and labels, etc.).
 * How will the visualization simultaneously support and show different summaries of data (e.g., revenue by franchise category vs. total revenue by franchise).
+* Can multiple chart types (such as bar chart vs. scatter plot) be represented in the visualization?
