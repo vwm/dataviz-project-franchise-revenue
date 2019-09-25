@@ -1,5 +1,4 @@
-# Data Visualization - Project Proposal
-This is a rough draft of a data visualization project proposal.
+# Data Visualization Project - Franchise Revenue
 
 ## Data
 I propose to visualize [franchise revenue data](https://gist.github.com/vwm/1598b47bed8c5ecdd18dea2fb52680f4/#file-readme-md) for my project.  The dataset originates from R for Data Science's Tidy Tuesday weekly event for [July 2, 2019](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-07-02).
