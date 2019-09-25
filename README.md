@@ -1,4 +1,4 @@
-# dataviz-project-proposal
+# Data Visualization - Project Proposal
 This is a rough draft of a data visualization project proposal.
 
 ## Data
@@ -7,7 +7,10 @@ I propose to visualize [franchise revenue data](https://gist.github.com/vwm/1598
 This data shows the revenue of franchises by their media category (e.g., video games, merchandise, etc.), the original media source (e.g., book, film, etc.), the year the franchise was created, the franchise creator, and the current owner.
 
 ## Prototypes
-...
+This is a prototype showing revenue by franchise.  It shows the top revenue items and puts franchise revenue into perspective based on media category.  It's already interesting to see how merchandise dominates the field. Marvel is the only franchise to appear high in the list from movie revenue, and Shonen Jump represents the highest contribution from the manga category.  My hope is to extend this view to allow dynamic selection of the x-axis category.
+![image](https://user-images.githubusercontent.com/2779058/65630273-18306980-dfa3-11e9-933f-976104996302.png)
+
+
 
 ## Questions & Tasks
 These initial questions are a guideline for the visualization's development path, and they may serve as implementation ideas.
