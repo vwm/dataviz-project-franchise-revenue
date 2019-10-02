@@ -42,7 +42,7 @@ The left sketch is similar to the second prototype.  The goal is to use a spatia
 ## Open Questions
 I aim to address these questions as the visualization takes shape.
 * How should the visualization take outliers into account for readability and visibility purposes?
-* How can the visualization be coded or designed to dynamically change chart type?
+* How should the visualization be coded or designed to dynamically change chart type?
 
 ## Schedule of Deliverables
 This schedule estimates the delivery date of various aspects of the project.
