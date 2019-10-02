@@ -21,7 +21,7 @@ During the next round of development, I created a prototype that summarizes the 
 [![image](https://user-images.githubusercontent.com/2779058/65630754-ff748380-dfa3-11e9-87f7-fbff2ea2b53b.png)](https://beta.vizhub.com/vwm/e99d07afaf75445b8edb3788056b8644)
 
 ## Questions & Tasks
-These questions are a guideline for the visualization's development path.  Implementation ideas were created to better enable users to answer these questions.
+These questions serve as a guideline and an inspiration for the visualization's design and interactive elements.
 * How does revenue by revenue category change over time?
 * How does the age of a franchise correlate with its total revenue?
 * Is there a correlation between the original media type and the relative success of a franchise?
@@ -41,9 +41,7 @@ The left sketch is similar to the second prototype.  The goal is to use a spatia
 
 ## Open Questions
 I'm considering several questions as the visualization takes shape.
-* How can the user make informed dynamic choices on how to slice the visualization?
 * How should the visualization take outliers into account for readability and visibility purposes?
-* How will the visualization simultaneously support and show different summaries of data (e.g., revenue by franchise category vs. total revenue by franchise).
 
 ## Schedule of Deliverables
 This schedule estimates the delivery date of various aspects of the project.
