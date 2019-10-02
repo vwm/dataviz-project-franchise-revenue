@@ -13,11 +13,11 @@ Upon clicking on a bar segment or scatterplot point, the visualization should di
 ## Prototypes
 I created an initial prototype which describes revenue by franchise.  It shows the top revenue items and puts franchise revenue into perspective based on media category.
 
-It's already interesting to see how merchandise dominates the field. Marvel is the only franchise to appear high in the list from movie revenue, and Shonen Jump represents the highest contribution from the manga category.  Extending this view to allow dynamic selection of the axes and color should give the user useful flexibility and power.
+It's already interesting to see how merchandise dominates the field. Marvel is the only franchise to appear high in the list from movie revenue, and Shonen Jump represents the highest contribution from the manga category.  This prototype highlighted how useful it would be to include dynamic axis and color selection.  It also led me to the idea of linking different chart types by clicking on bar segments.
 
 [![image](https://user-images.githubusercontent.com/2779058/65630273-18306980-dfa3-11e9-933f-976104996302.png)](https://beta.vizhub.com/vwm/880af0e6afe24609b87ca5a18faa8a9e)
 
-During the next round of development, I created a prototype that summarizes the total revenue of each franchise by the year it was created.  This prototyle revealed the importance of understanding how to handle outliers and raised research questions involving finding more effective ways to present and organize the data under different dimensions.
+During the next round of development, I created a prototype that summarizes the total revenue of each franchise by the year it was created.  This prototype revealed the importance of understanding how to handle outliers and raised research questions involving finding more effective ways to present and organize the data under different dimensions.
 [![image](https://user-images.githubusercontent.com/2779058/65630754-ff748380-dfa3-11e9-87f7-fbff2ea2b53b.png)](https://beta.vizhub.com/vwm/e99d07afaf75445b8edb3788056b8644)
 
 ## Questions & Tasks
