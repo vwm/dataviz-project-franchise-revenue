@@ -21,7 +21,7 @@ During the next round of development, I created a prototype that summarizes the 
 [![image](https://user-images.githubusercontent.com/2779058/65630754-ff748380-dfa3-11e9-87f7-fbff2ea2b53b.png)](https://beta.vizhub.com/vwm/e99d07afaf75445b8edb3788056b8644)
 
 ## Questions & Tasks
-These questions are a guideline for the visualization's development path, and they may serve as implementation ideas.
+These questions are a guideline for the visualization's development path.  Implementation ideas were created to better enable users to answer these questions.
 * How does revenue by revenue category change over time?
 * How does the age of a franchise correlate with its total revenue?
 * Is there a correlation between the original media type and the relative success of a franchise?
