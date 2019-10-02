@@ -40,11 +40,12 @@ The right sketch is similar to the first prototype.  This stacked bar view would
 The left sketch is similar to the second prototype.  The goal is to use a spatial view to reveal if the original media source and a franchise's total revenue have a correlation.  Ultimately, linking these two chart types enables a user to evaluate global-level patterns while being able to investigate local-level details.
 
 ## Open Questions
-I'm considering several questions as the visualization takes shape.
+I aim to address these questions as the visualization takes shape.
 * How should the visualization take outliers into account for readability and visibility purposes?
 
 ## Schedule of Deliverables
 This schedule estimates the delivery date of various aspects of the project.
+* Week 7 - Recreate base visualizations using React and D3.
 * Week 7 - Add calculated columns to the dataset for easier grouping and more varied visualization options.
 * Week 7 - Implement dropdown menus for dynamic selections.
 * Week 8 - Incorporate multiple chart types, showing a different one depending on what the user selects in the dropdown.
