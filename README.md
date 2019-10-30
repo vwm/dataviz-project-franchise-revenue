@@ -29,7 +29,7 @@ It was immediately interesting to see how merchandise dominates the field. Marve
 During the next round of development, I created a prototype that summarizes the total revenue of each franchise by the year it was created.  This prototype revealed the importance of understanding how to handle outliers and raised research questions involving finding more effective ways to present and organize the data under different dimensions.
 [![image](https://user-images.githubusercontent.com/2779058/65630754-ff748380-dfa3-11e9-87f7-fbff2ea2b53b.png)](https://beta.vizhub.com/vwm/e99d07afaf75445b8edb3788056b8644)
 
-## Questions & Tasks
+## Guiding Questions
 These questions served as a guideline and an inspiration for the visualizations' design and interactive elements.  The visualizations are designed to provide the capability to answer these questions.
 * How does revenue by revenue category change over time?
 * How does the age of a franchise correlate with its total revenue?
@@ -47,4 +47,4 @@ The right sketch is similar to the first prototype.  This stacked bar concept re
 The left sketch is similar to the second prototype.  A spatial view helps show if the original media source and a franchise's total revenue have a correlation.  Ultimately, these two chart types enable a user to evaluate global-level patterns while being able to investigate local-level details.
 
 ## Future Work
-Link or combine the two visualizations into one visualization with two views.
+Link or combine the two visualizations into one visualization with two cohesive views.
