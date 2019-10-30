@@ -10,7 +10,7 @@ The project features two primary visualizations.  They are based off of the same
 
 The first visualization is a scatterplot that may show either category revenue (for a franchise's specific categories such as video games) or total revenue (across the entire franchise), selectable by dropdown. It also allows for selection of the color axis, describing data by the revenue category or the original media source.  Although this chart was designed to show a higher-level view, hovering over a data point displays the specific franchise.
 
-[![image](https://user-images.githubusercontent.com/2779058/67863072-97acdd80-faf9-11e9-9058-4820fb5180ec.png)](https://beta.vizhub.com/vwm/b10862248c7b49458b927c4fef9010ae)
+[![image](https://user-images.githubusercontent.com/2779058/67864803-97621180-fafc-11e9-9ebe-b600b40c8a32.png)](https://beta.vizhub.com/vwm/b10862248c7b49458b927c4fef9010ae)
 
 The second visualization is a stacked bar chart which shows total and category revenue simultaneously, this time placing a focus on the top 20 franchises as individual entities.  Revenue category is the common thread between the two visualizations, but this one places a greater emphasis on it, employing highlighting behavior to starkly show the most potent, driving factors behind revenue for the top franchises.
 
