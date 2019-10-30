@@ -10,11 +10,11 @@ The project features two primary visualizations.  They are based off of the same
 
 The first visualization is a scatterplot that may show either category revenue (for a franchise's specific categories such as video games) or total revenue (across the entire franchise), selectable by dropdown. It also allows for selection of the color axis, describing data by the revenue category or the original media source.  Although this chart was designed to show a higher-level view, hovering over a data point displays the specific franchise.
 
-![image](https://user-images.githubusercontent.com/2779058/67863120-af846180-faf9-11e9-812c-f1168e5be031.png)
+[![image](https://user-images.githubusercontent.com/2779058/67863072-97acdd80-faf9-11e9-9058-4820fb5180ec.png)](https://beta.vizhub.com/vwm/b10862248c7b49458b927c4fef9010ae)
 
 The second visualization is a stacked bar chart which shows total and category revenue simultaneously, this time placing a focus on the top 20 franchises as individual entities.  Revenue category is the common thread between the two visualizations, but this one places a greater emphasis on it, employing highlighting behavior to starkly show the most potent, driving factors behind revenue for the top franchises.
 
-![image](https://user-images.githubusercontent.com/2779058/67863120-af846180-faf9-11e9-812c-f1168e5be031.png)
+[![image](https://user-images.githubusercontent.com/2779058/67863120-af846180-faf9-11e9-812c-f1168e5be031.png)](https://beta.vizhub.com/vwm/649f76cf8fdf41f4ae26bea25b2fbac8)
 
 ## Interaction Behavior
 The two visualizations feature different interaction styles.  The scatterplot allows the user to dynamically change the Y-axis and color-axis by dropdown menus.  Depending on what is selected, the visualization displays the appropriate data regarding revenue type or legend category.  The stacked bar chart allows the user to highlight segments of the chart by hovering over items in the legend.
