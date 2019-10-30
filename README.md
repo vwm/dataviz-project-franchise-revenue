@@ -6,7 +6,15 @@ This project visualizes [franchise revenue data](https://gist.github.com/vwm/159
 This data shows the revenue of franchises by their media category (e.g., video games, merchandise, etc.), the original media source (e.g., book, film, etc.), the year the franchise was created, the franchise creator, and the current owner.
 
 ## Visualizations
-...
+The project features two primary visualizations.  They are based off of the same core dataset, use a common color and font scheme, and provide distinctly different ways to view the same data.  As the visualizations took shape, various features were added to increase readability (such as opacity or highlighting), and the data was improved to provide alternative and generalized groupings.
+
+The first visualization is a scatterplot that may show either category revenue (for a franchise's specific categories such as video games) or total revenue (across the entire franchise), selectable by dropdown. It also allows for selection of the color axis, describing data by the revenue category or the original media source.  Although this chart was designed to show a higher-level view, hovering over a data point displays the specific franchise.
+
+![image](https://user-images.githubusercontent.com/2779058/67863120-af846180-faf9-11e9-812c-f1168e5be031.png)
+
+The second visualization is a stacked bar chart which shows total and category revenue simultaneously, this time placing a focus on the top 20 franchises as individual entities.  Revenue category is the common thread between the two visualizations, but this one places a greater emphasis on it, employing highlighting behavior to starkly show the most potent, driving factors behind revenue for the top franchises.
+
+![image](https://user-images.githubusercontent.com/2779058/67863120-af846180-faf9-11e9-812c-f1168e5be031.png)
 
 ## Interaction Behavior
 The two visualizations feature different interaction styles.  The scatterplot allows the user to dynamically change the Y-axis and color-axis by dropdown menus.  Depending on what is selected, the visualization displays the appropriate data regarding revenue type or legend category.  The stacked bar chart allows the user to highlight segments of the chart by hovering over items in the legend.
