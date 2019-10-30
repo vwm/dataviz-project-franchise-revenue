@@ -6,7 +6,7 @@ This project visualizes [franchise revenue data](https://gist.github.com/vwm/159
 This data shows the revenue of franchises by their media category (e.g., video games, merchandise, etc.), the original media source (e.g., book, film, etc.), the year the franchise was created, the franchise creator, and the current owner.
 
 ## Visualizations
-The project features two primary visualizations.  They are based off of the same core dataset, use a common color and font scheme, and provide distinctly different ways to view the same data.  As the visualizations took shape, various features were added to increase readability (such as opacity or highlighting), and the data was improved to provide alternative and generalized groupings.
+The project features two primary visualizations.  They are based off of the same core dataset, use a common color scheme, and provide distinctly different ways to view the same data.  As the visualizations took shape, various features were added to increase readability (such as opacity or highlighting), and the data was improved to provide alternative and generalized groupings.
 
 The first visualization is a scatterplot that may show either category revenue (for a franchise's specific categories such as video games) or total revenue (across the entire franchise), selectable by dropdown. It also allows for selection of the color axis, describing data by the revenue category or the original media source.  Although this chart was designed to show a higher-level view, hovering over a data point displays the specific franchise.
 
