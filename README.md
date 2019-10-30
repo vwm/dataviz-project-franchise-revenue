@@ -9,11 +9,9 @@ This data shows the revenue of franchises by their media category (e.g., video g
 The project features two primary visualizations.  They are based off of the same core dataset, use a common color scheme, and provide distinctly different ways to view the same data.  As the visualizations took shape, various features were added to improve readability and polish, and the data was improved to provide alternative and generalized groupings.
 
 The first visualization is a scatterplot that may show either category revenue (for a franchise's specific categories such as video games) or total revenue (across the entire franchise), selectable by dropdown. It also allows for selection of the color axis, describing data by the revenue category or the original media source.  Although this chart was designed to show a higher-level view, hovering over a data point displays the specific franchise.
-
 [![image](https://user-images.githubusercontent.com/2779058/67864803-97621180-fafc-11e9-9ebe-b600b40c8a32.png)](https://beta.vizhub.com/vwm/b10862248c7b49458b927c4fef9010ae)
 
 The second visualization is a stacked bar chart which shows total and category revenue simultaneously, this time placing a focus on the top 20 franchises as individual entities.  Revenue category is the common thread between the two visualizations, but this one places a greater emphasis on it, employing highlighting behavior to starkly show the most potent, driving factors behind revenue for the top franchises.
-
 [![image](https://user-images.githubusercontent.com/2779058/67863120-af846180-faf9-11e9-812c-f1168e5be031.png)](https://beta.vizhub.com/vwm/649f76cf8fdf41f4ae26bea25b2fbac8)
 
 ## Interaction Behavior
@@ -23,7 +21,6 @@ The two visualizations feature different interaction styles.  The scatterplot al
 I created an initial prototype which describes revenue by franchise.  It shows the top revenue items and puts franchise revenue into perspective based on media category.
 
 It was immediately interesting to see how merchandise dominates the field. Marvel is the only franchise to appear high in the list from movie revenue, and Shonen Jump represents the highest contribution from the manga category.  This prototype highlighted how useful it would be to include dynamic axis and color selection.
-
 [![image](https://user-images.githubusercontent.com/2779058/65630273-18306980-dfa3-11e9-933f-976104996302.png)](https://beta.vizhub.com/vwm/880af0e6afe24609b87ca5a18faa8a9e)
 
 During the next round of development, I created a prototype that summarizes the total revenue of each franchise by the year it was created.  This prototype revealed the importance of understanding how to handle outliers and raised research questions involving finding more effective ways to present and organize the data under different dimensions.
